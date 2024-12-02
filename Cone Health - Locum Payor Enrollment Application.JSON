@@ -1,0 +1,98 @@
+{
+  "First Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Middle Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  },
+  "Date of Birth": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Birth Date :",
+    "type": "FILL_FIELD"
+  },
+  "Other Detail": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Gender Identity:",
+    "type": "FILL_FIELD"
+  },
+  "Male FemaleNPI Number": {
+    "json_path": "PERSONAL INFORMATION -> Personal Identification Numbers -> Individual NPI :",
+    "type": "FILL_FIELD"
+  },
+  "License StateRow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> License State :",
+    "type": "FILL_FIELD"
+  },
+  "License NumberRow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> License Number :",
+    "type": "FILL_FIELD"
+  },
+  "Issue DateRow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> Issue Date :",
+    "type": "FILL_FIELD"
+  },
+  "Expiration DateRow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> Expiration Date :",
+    "type": "FILL_FIELD"
+  },
+  "Institution Name": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Professional School :",
+    "type": "FILL_FIELD"
+  },
+  "CityState": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> City :",
+    "type": "FILL_FIELD"
+  },
+  "Start Date mmddyy": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Professional School Start Date :",
+    "type": "FILL_FIELD"
+  },
+  "End Date mmddyy": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Professional School End Date :",
+    "type": "FILL_FIELD"
+  },
+  "Primary Specialty": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Company NameRow1": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [0] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "Company NameRow2": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [1] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "Company NameRow3": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "StateRow1": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [0] -> State :",
+    "type": "FILL_FIELD"
+  },
+  "StateRow2": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [1] -> State :",
+    "type": "FILL_FIELD"
+  },
+  "StateRow3": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> State :",
+    "type": "FILL_FIELD"
+  },
+  "Start Date mmddyyRow1": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [0] -> Start Date :",
+    "type": "FILL_FIELD"
+  },
+  "Start Date mmddyyRow2": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> Start Date :",
+    "type": "FILL_FIELD"
+  },
+  "Start Date mmddyyRow3": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> Start Date :",
+    "type": "FILL_FIELD"
+  },
+  "First_Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  }
+}

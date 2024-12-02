@@ -1,0 +1,231 @@
+{
+  "First Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Middle Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  },
+  "Date of Birth": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Birth Date :",
+    "type": "FILL_FIELD"
+  },
+  "Sex": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Gender Identity:",
+    "type": "CHECKBOX",
+    "allowed_values": [
+      "Male",
+      "Female"
+    ]
+  },
+  "Name of Practice": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Practice Name": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Email address": {
+    "json_path": "PERSONAL INFORMATION -> Primary Method of Contact -> Primary E-mail Address :",
+    "type": "FILL_FIELD"
+  },
+  "National Provider Identifier NPI": {
+    "json_path": "PERSONAL INFORMATION -> Personal Identification Numbers -> Individual NPI :",
+    "type": "FILL_FIELD"
+  },
+  "STATERow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> License State :",
+    "type": "FILL_FIELD"
+  },
+  "DATE OF LICENSERow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> Issue Date :",
+    "type": "FILL_FIELD"
+  },
+  "LICENSE NUMBERRow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> License Number :",
+    "type": "FILL_FIELD"
+  },
+  "STATUS Active Inactive SuspendedRow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> License Status :",
+    "type": "FILL_FIELD"
+  },
+  "EXPIRATION DATERow1": {
+    "json_path": "PROFESSIONAL IDENTIFICATION NUMBERS -> Professional License -> [0] -> Expiration Date :",
+    "type": "FILL_FIELD"
+  },
+  "Primary Specialty Board": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Date Certified": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Initial Certification Date :",
+    "type": "FILL_FIELD"
+  },
+  "Institution": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Professional School :",
+    "type": "FILL_FIELD"
+  },
+  "Address Street City State Zip (School)": {
+    "json_path": "EDUCATION -> Professional School Information -> [0]",
+    "type": "FILL_ADDRESS"
+  },
+  "Degree": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Degree :",
+    "type": "FILL_FIELD"
+  },
+  "To": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Professional School End Date :",
+    "type": "FILL_FIELD"
+  },
+  "Current Practice": {
+    "json_path": "PRACTICE LOCATIONS -> Active Locations -> [0] -> General Information : -> Office Type :",
+    "type": "FILL_FIELD"
+  },
+  "mmyyyy": {
+    "json_path": "PRACTICE LOCATIONS -> Active Locations -> [0] -> General Information : -> Providers's Start Date :",
+    "type": "FILL_FIELD"
+  },
+  "Home Address": {
+    "json_path": "PERSONAL INFORMATION -> Home Address",
+    "type": "FILL_ADDRESS"
+  },
+  "email": {
+    "json_path": "PERSONAL INFORMATION -> Primary Method of Contact -> Personal E-Mail Address :",
+    "type": "FILL_FIELD"
+  },
+  "Mobile": {
+    "json_path": "PERSONAL INFORMATION -> Phone Numbers -> Personal Cell Phone :",
+    "type": "FILL_FIELD"
+  },
+  "Zip": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [0] -> Zip Code :",
+    "type": "FILL_FIELD"
+  },
+  "Insurance Carrier_1": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [0] -> Practice/Employer Name :",
+    "type": "FILL_FIELD"
+  },
+  "Insurance Carrier_2": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [1] -> Practice/Employer Name :",
+    "type": "FILL_FIELD"
+  },
+  "Address_6": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [1] -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "City_2": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [1] -> City :",
+    "type": "FILL_FIELD"
+  },
+  "State_2": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [1] -> State :",
+    "type": "FILL_FIELD"
+  },
+  "Zip_2": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [1] -> Zip Code :",
+    "type": "FILL_FIELD"
+  },
+  "Expiration Date_2": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [1] -> End Date :",
+    "type": "FILL_FIELD"
+  },
+  "Name_4": {
+    "json_path": "REFERENCES INFORMATION -> [0] -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "GroupPracticeAffiliation": {
+    "json_path": "REFERENCES INFORMATION -> [0] -> Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Address_7": {
+    "json_path": "REFERENCES INFORMATION -> [0] -> Street 1 :",
+    "type": "FILL_ADDRESS"
+  },
+  "email_7": {
+    "json_path": "REFERENCES INFORMATION -> [0] -> Email Address :",
+    "type": "FILL_FIELD"
+  },
+  "Name_5": {
+    "json_path": "REFERENCES INFORMATION -> [1] -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "InstitutionPractice Name": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [0] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "Type of Privileges": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [0] -> Admitting Privilege Type :",
+    "type": "FILL_FIELD"
+  },
+  "Mailing Address": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [0] -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "InstitutionPractice Name_2": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [1] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "Type of Privileges_2": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [1] -> Admitting Privilege Type :",
+    "type": "FILL_FIELD"
+  },
+  "Mailing Address_2": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [1] -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "InstitutionPractice Name_3": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [2] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "Type of Privileges_3": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [2] -> Admitting Privilege Type :",
+    "type": "FILL_FIELD"
+  },
+  "Mailing Address_3": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [2] -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "InstitutionPractice Name_4": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> Hospital Name :",
+    "type": "FILL_FIELD"
+  },
+  "Type of Privileges_4": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> Admitting Privilege Type :",
+    "type": "FILL_FIELD"
+  },
+  "Mailing Address_4": {
+    "json_path": "HOSPITAL AFFILIATIONS -> Admitting Privileges : -> [3] -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "Printed Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Print Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Address_5": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [0] -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "email_8": {
+    "json_path": "REFERENCES INFORMATION -> [1] -> Email Address :",
+    "type": "FILL_FIELD"
+  },
+  "City": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [0] -> City :",
+    "type": "FILL_FIELD"
+  },
+  "State": {
+    "json_path": "WORK HISTORY INFORMATION -> Employment Information Record -> [0] -> State :",
+    "type": "FILL_FIELD"
+  },
+  "GroupPracticeAffiliation_2": {
+    "json_path": "REFERENCES INFORMATION -> [1] -> Specialty :",
+    "type": "FILL_FIELD"
+  }
+
+}

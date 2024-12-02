@@ -1,0 +1,46 @@
+{
+  "Male Female": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Gender Identity:",
+    "type": "FILL_FIELD"
+  },
+  "First Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Job Title": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Specialty  Department": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  },
+  "Street": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> Street 1 :",
+    "type": "FILL_FIELD"
+  },
+  "City": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> City :",
+    "type": "FILL_FIELD"
+  },
+  "STATE": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> State :",
+    "type": "FILL_FIELD"
+  },
+  "ZIP": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> Zip Code :",
+    "type": "FILL_FIELD"
+  },
+  "Daytime Phone": {
+    "json_path": "PERSONAL INFORMATION -> Phone Numbers -> Personal Cell Phone :",
+    "type": "FILL_FIELD"
+  },
+  "Date of Birth": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Birth Date :",
+    "type": "FILL_FIELD"
+  },
+  "Email Address": {
+    "json_path": "PERSONAL INFORMATION -> Primary Method of Contact -> Personal E-Mail Address :",
+    "type": "FILL_FIELD"
+  }
+}

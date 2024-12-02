@@ -1,0 +1,10 @@
+{
+  "First name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Middle name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  }
+}

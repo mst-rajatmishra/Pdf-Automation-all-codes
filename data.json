@@ -1,0 +1,1059 @@
+{
+    "CAQH Data": {
+        "Summary Date": "",
+        "metadata": "",
+        "CAQH #": "",
+        "Last Reattestation Date": "",
+        "Attestation Date": ""
+    },
+    "PREPARE": {
+        "NUCC Grouping:": "",
+        "Provider Type:": "",
+        "Practice Setting:": "",
+        "Primary Practice State:": ""
+    },
+    "PERSONAL INFORMATION": {   
+        "Name": {
+            "First Name :": "ALISON",
+            "Middle Name" : "LEIGH",
+            "Have you used other names?": "",
+            "Maiden Name" : ""
+        },
+        "Home Address": {
+            "Street 1 :": "201 N. Elm St. Ste. 605,",
+            "City :": "NC",
+            "State :": "Greensboro",
+            "Zip Code :": "27401"
+        },
+        "Mailing Address": {
+            "Is Mailing address and Home Address Same?": ""
+        },
+        "Primary Method of Contact": {
+            "Primary E-mail Address :": "NimbusDreamsAnesthesiaPLLC@gmail.com",
+            "Personal E-Mail Address :": "alisonlcarver@hotmail.com"
+        },
+        "Phone Numbers": {
+            "Personal Cell Phone :": "919-600-2424"
+        },
+        "Personal Identification Numbers": {
+            "Social Security Number :": "",
+            "Do you have a Unique Physicians Identification Number (UPIN)?": "",
+            "UPIN :": "",
+            "Do you have an Individual (Type 1) National Provider Identifier (NPI)?": "",
+            "Individual NPI :": "1487996344"
+        },
+        "Demographics": {
+            "Gender Identity:": "Female",
+            "Race/Ethnicity :": "",
+            "Birth Date :": "07/14/1983",
+            "Are you a US Citizen :": ""
+        }
+    },
+    "PROFESSIONAL IDENTIFICATION NUMBERS": {
+        "Professional License": [
+            {
+                "License State :": "NC",
+                "Do you currently practice in this state?": "",
+                "License Number :": "229275",
+                "License Type :": "",
+                "License Status :": "Active",
+                "Issue Date :": "01/30/2009",
+                "Expiration Date :": "07/31/2026"
+            }
+        ],
+        "DEA Registration": {
+            "Do you have a DEA Registration": "",
+            "DEA Number :": "",
+            "DEA State :": "",
+            "Issue Date :": "",
+            "Expiration Date :": ""
+        },
+        "Controlled Dangerous Substance (CDS) Registration": {
+            "Do you have a CDS Registration Certificate?": ""
+        },
+        "Medicare": {
+            "Are you a participating Medicare provider?": ""
+        },
+        "Medicaid": {
+            "Are you a participating Medicaid provider?": "",
+            "Medicaid Number :": "",
+            "State :": ""
+        },
+        "ECFMG": {
+            "Do you have a Educational Commission for Foreign Medical Graduates (ECFMG) Number?": "No"
+        }
+    },
+    "EDUCATION": {
+        "Graduate Type :": "",
+        "Professional School Information": [
+            {
+                "Country :": "NC",
+                "State :": "Greensboro,",
+                "Professional School :": "The University of North Carolina",
+                "Street 1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Degree :": "Doctor of Nursing Practice",
+                "Professional School Start Date :": "",
+                "Professional School End Date :": "2019",
+                "Did you complete your professional education at this school?": "",
+                "Graduation Date :": ""
+            }
+        ],
+        "Undergraduate Education": {
+            "State :": "",
+            "School :": "",
+            "Zip Code :": "",
+            "Degree :": "",
+            "Start Date :": "",
+            "End Date :": "",
+            "Area of Training / Course of Study / Major :": "",
+            "Did you complete your Undergraduate education at this school?": "",
+            "Graduation Date :": ""
+        }
+    },
+    "TRAINING INFORMATION": {
+        "Internship :": [
+            {
+                "Type :": "",
+                "Country :": "",
+                "State :": "",
+                "Institution/Hospital Name :": "",
+                "Street1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Start Date :": "",
+                "End Date :": "",
+                "Department :": "",
+                "Specialty :": "",
+                "Did you complete the training program at this institution?": "",
+                "Training ID": "",
+                "E-Card Code" : "",
+                "Instructor ID" : ""
+            }
+        ],
+        "Residency :": [
+            {
+                "Type :": "",
+                "Country :": "",
+                "State :": "",
+                "Institution/Hospital Name :": "",
+                "Street1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Start Date :": "",
+                "End Date :": "",
+                "Department :": "",
+                "Specialty :": "",
+                "Did you complete the training program at this institution?": ""
+            }
+        ],
+        "Cultural Competency Training :": {
+            "Have you completed cultural competency training?": "",
+            "Did you complete the training program at this institution?": "",
+            "Completion Date :": ""
+        },
+        "Faculty Positions :": [
+            {
+                "Country :": "",
+                "State :": "",
+                "Institution/Hospital Name :": "",
+                "Academic Rank or Title :": "",
+                "Street1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Specialty :": "",
+                "Start Date :": "",
+                "End Date :": ""
+            }
+        ],
+        "Continuing Medical Education(CME) :": {
+            "Do you have Continuing Medical Education ?": ""
+        }
+    },
+    "SPECIALTY INFORMATION": {
+        "Primary Specialty": {
+            "Primary Specialty :": "Certified Registered Nurse Anesthetist (CRNA)",
+            "Board Certified?": "",
+            "Name of Certifying Board :": "National Board of Certification & Recertification for Nurse Anesthetist",
+            "Certification Number :": "",
+            "Initial Certification Date :": "5/2/2013",
+            "Does your board certification have an expiration date?": ""
+        },
+        "Secondary Specialty": {
+            "Do you have a Secondary Specialty?": ""
+        },
+        "Failed Certification Exam": {
+            "Have you ever failed a certification exam?": ""
+        }
+    },
+    "CERTIFICATION INFORMATION": {
+        "Do you have Certifications? :": "",
+        "CPR - Cardio-Pulmonary Resuscitation :": "",
+        "Basic Life Support (BLS) :": "",
+        "Advanced Cardiac Life Support (ACLS)": "",
+        "Advanced Life Support in OB(ALSO) :": "",
+        "Health Care Provider (CoreC) :": "",
+        "Advanced Trauma Life Support (ATLS) :": "",
+        "Neonatal Advanced Life Support (NALS)": "",
+        "Neonatal Resuscitation Program (NRP) :": "",
+        "Pediatric Advanced Life Support (PALS)": "",
+        "PALS - State :": "",
+        "PALS - Date of Certification :": "",
+        "PALS Expiration Date :": "",
+        "Other :": "",
+        "Anesthesia Permit :": ""
+    },
+    "PRACTICE LOCATIONS": {
+        "Active Locations": [
+            {
+                "General Information :": {
+                    "Confirmed Date :": "",
+                    "Office Type :": "LeBauer Endoscopy Center",
+                    "Providers's Start Date :": "04/23",
+                    "Do you practice at this location?:": "",
+                    "Please Explain:": "",
+                    "Provider Directory Classification :": "",
+                    "Specialty :": "",
+                    "Subspecialty :": "",
+                    "Will you continue to practice at this location": "",
+                    "Practice Name :": "CRNA",
+                    "Street 1 :": "Endoscopy Center,",
+                    "Country :": "NC",
+                    "City :": "",
+                    "State :": "Greensboro",
+                    "Zip Code :": "",
+                    "Can general correspondence be sent to this location?": ""
+                },
+                "Mailing Address :": {
+                    "Street1 :": "Endoscopy Center",
+                    "Street2 :": "",
+                    "City :": "",
+                    "State :": "Greensboro",
+                    "Country :": "NC",
+                    "Zip Code :": "",
+                    "Type of Practice :": "",
+                    "Do you have an organization (Type 2) NPI? :": "",
+                    "Organization (Type 2) NPI :": ""
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "336-324-3116",
+                    "Fax Number :": "",
+                    "Does this location provide 24hour/7day a week phone coverage?:": ""
+                },
+                "Tax Information :": {
+                    "Tax ID :": "",
+                    "Type of Tax ID :": "",
+                    "Is this the primary Tax ID for this practice location?": ""
+                },
+                "Monday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Tuesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Wednesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Thursday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Friday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Saturday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": ""
+                },
+                "Partners/Associates :": {
+                    "Colleague Type :": "",
+                    "First Name :": "",
+                    "Last Name :": ""
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": ""
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": ""
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": " ",
+                    "Last Name :": "",
+                    "Phone Number :": "",
+                    "Fax Number :": "",
+                    "Is Office Manager Credentialing Contact  :": "",
+                    "E-mail Address :": ""
+                },
+                "Billing Contact :": {
+                    "First Name :": "",
+                    "Last Name :": "",
+                    "E-mail Address :": ""
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Gender Limitations :": "",
+                    "Are there any Age Limitations? :": "",
+                    "Age Minimum :": "",
+                    "Age Maximum :": ""
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "",
+                    "Does this office provide handicapped accessibility ?": ""
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "",
+                    "Interior Building": "",
+                    "Wheelchair access to exam room": "",
+                    "Exam table/scale/chair": "",
+                    "Gurneys & Stretchers": "",
+                    "Portable Lifts": "",
+                    "Radiologic Equipment": "",
+                    "Signage & documents": "",
+                    "Parking": "",
+                    "Restroom": "",
+                    "Does this office have other services for the disabled ?": ""
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "",
+                    "American Sign Language :": "",
+                    "Mental/Physical Impairment Services :": "",
+                    "Is this office accessible by public transportation ?": ""
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "",
+                    "Subway :": "",
+                    "Regional Train :": "",
+                    "Does this Location Provide Child Care Services?": "",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "",
+                    "Do you have TDD(hearing impaired device) available :": "",
+                    "Do you accept Workers' Compensation Patients?": "",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "No",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": ""
+                },
+                "Telehealth :": {
+                    "I provide telehealth services at this location:": "",
+                    "Do you use a telehealth application or platform that is compliant with the Health Insurance Portability and Accountability Act (HIPAA)?": ""
+                },
+                "Telehealth Service Type:": {
+                    "Audio/Video :": "",
+                    "Are you willing and able to support family caregivers?": ""
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "",
+                    "Radiology Services :": "",
+                    "X-ray?": "",
+                    "EKG Services?": "",
+                    "Care of Minor Lacerations?": "",
+                    "Pulmonary Function testing?": "",
+                    "Allergy Injections :": "",
+                    "Allergy Skin Testing :": "",
+                    "Office Gynecology?": "",
+                    "Drawing Blood?": "",
+                    "Asthma Treatment?": "",
+                    "Age Appropriate Immunizations?": "",
+                    "Flexible Sigmoidoscopy?": "",
+                    "Tympanometry/Audiometry Screening ?": "",
+                    "Osteopathic Manipulation?": "",
+                    "IV Hydration treatment?": "",
+                    "Cardiac Stress Test?": "",
+                    "Physical Therapy?": "",
+                    "Is anesthesia administered in your office ?": ""
+                }
+            },
+            {
+                "General Information :": {
+                    "Confirmed Date :": "",
+                    "Office Type :": "",
+                    "Providers's Start Date :": "",
+                    "Do you practice at this location?:": "",
+                    "Please Explain:": "",
+                    "Provider Directory Classification :": "",
+                    "Specialty :": "",
+                    "Will you continue to practice at this location": "",
+                    "Practice Name :": "",
+                    "Street 1 :": "",
+                    "Country :": "",
+                    "City :": "",
+                    "State :": "",
+                    "Zip Code :": ""
+                },
+                "Mailing Address :": {
+                    "Street1 :": "",
+                    "City :": "",
+                    "State :": "",
+                    "Zip Code :": "",
+                    "Type of Practice :": "",
+                    "Do you have an organization (Type 2) NPI? :": "",
+                    "Organization (Type 2) NPI :": ""
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "",
+                    "Fax Number :": ""
+                },
+                "Tax Information :": {
+                    "Tax ID :": "",
+                    "Type of Tax ID :": "",
+                    "Is this the primary Tax ID for this practice location?": ""
+                },
+                "Monday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Tuesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Wednesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Thursday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Friday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Saturday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Sunday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": ""
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": ""
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": ""
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "",
+                    "Last Name :": "",
+                    "E-mail Address :": "",
+                    "Is Office Manager Credentialing Contact  :": ""
+                },
+                "Billing Contact :": {
+                    "First Name :": "",
+                    "Last Name :": "",
+                    "E-mail Address :": ""
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Are there any Age Limitations? :": "",
+                    "Age Minimum :": "",
+                    "Age Maximum :": ""
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "",
+                    "Does this office provide handicapped accessibility ?": ""
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "",
+                    "Interior Building": "",
+                    "Wheelchair access to exam room": "",
+                    "Exam table/scale/chair": "",
+                    "Gurneys & Stretchers": "",
+                    "Portable Lifts": "",
+                    "Radiologic Equipment": "",
+                    "Signage & documents": "",
+                    "Parking": "",
+                    "Restroom": "",
+                    "Does this office have other services for the disabled ?": ""
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "",
+                    "American Sign Language :": "",
+                    "Mental/Physical Impairment Services :": "",
+                    "Is this office accessible by public transportation ?": ""
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "",
+                    "Subway :": "",
+                    "Regional Train :": "",
+                    "Does this Location Provide Child Care Services?": "",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "",
+                    "Do you have TDD(hearing impaired device) available :": "",
+                    "Do you accept Workers' Compensation Patients?": "",
+                    "Are staff 0ed in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": ""
+                },
+                "Telehealth Service Type:": {
+                    "Audio :": "",
+                    "Audio/Video :": "",
+                    "Secure Text Messaging :": "",
+                    "Remote Monitoring :": "",
+                    "Store-and-Forward :": "",
+                    "Are you willing and able to support family caregivers?": ""
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "",
+                    "Radiology Services :": "",
+                    "X-ray?": "",
+                    "EKG Services?": "",
+                    "Care of Minor Lacerations?": "",
+                    "Pulmonary Function testing?": "",
+                    "Allergy Injections :": "",
+                    "Allergy Skin Testing :": "",
+                    "Office Gynecology?": "",
+                    "Drawing Blood?": "",
+                    "Asthma Treatment?": "",
+                    "Age Appropriate Immunizations?": "",
+                    "Flexible Sigmoidoscopy?": "",
+                    "Tympanometry/Audiometry Screening ?": "",
+                    "Osteopathic Manipulation?": "",
+                    "IV Hydration treatment?": "",
+                    "Cardiac Stress Test?": "",
+                    "Physical Therapy?": "",
+                    "Is anesthesia administered in your office ?": ""
+                }
+            },
+            {
+                "General Information :": {
+                    "Confirmed Date :": "",
+                    "Office Type :": "",
+                    "Providers's Start Date :": "",
+                    "Do you practice at this location?:": "",
+                    "Please Explain:": "",
+                    "Provider Directory Classification :": "",
+                    "Specialty :": "",
+                    "Will you continue to practice at this location": "Yes",
+                    "Practice Name :": "",
+                    "Street 1 :": "",
+                    "Country :": "",
+                    "City :": "",
+                    "State :": "",
+                    "Zip Code :": ""
+                },
+                "Mailing Address :": {
+                    "Type of Practice :": "",
+                    "Do you have an organization (Type 2) NPI? :": "",
+                    "Organization (Type 2) NPI :": ""
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "",
+                    "Fax Number :": ""
+                },
+                "Tax Information :": {
+                    "Tax ID :": "",
+                    "Type of Tax ID :": "",
+                    "Is this the primary Tax ID for this practice location?": ""
+                },
+                "Monday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Tuesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Wednesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Thursday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Friday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Saturday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Sunday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": ""
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": ""
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": ""
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "",
+                    "Last Name :": "",
+                    "E-mail Address :": "",
+                    "Is Office Manager Credentialing Contact  :": ""
+                },
+                "Billing Contact :": {
+                    "First Name :": "",
+                    "Last Name :": "",
+                    "E-mail Address :": ""
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Are there any Age Limitations? :": "",
+                    "Age Minimum :": "",
+                    "Age Maximum :": ""
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "",
+                    "Does this office provide handicapped accessibility ?": ""
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "",
+                    "Interior Building": "",
+                    "Wheelchair access to exam room": "",
+                    "Exam table/scale/chair": "",
+                    "Gurneys & Stretchers": "",
+                    "Portable Lifts": "",
+                    "Radiologic Equipment": "",
+                    "Signage & documents": "",
+                    "Parking": "",
+                    "Restroom": "",
+                    "Does this office have other services for the disabled ?": ""
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "",
+                    "American Sign Language :": "",
+                    "Mental/Physical Impairment Services :": "",
+                    "Is this office accessible by public transportation ?": ""
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "",
+                    "Subway :": "",
+                    "Regional Train :": "",
+                    "Does this Location Provide Child Care Services?": "",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "",
+                    "Do you have TDD(hearing impaired device) available :": "",
+                    "Do you accept Workers' Compensation Patients?": "",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": ""
+                },
+                "Telehealth Service Type:": {
+                    "Audio :": "",
+                    "Audio/Video :": "",
+                    "Secure Text Messaging :": "",
+                    "Remote Monitoring :": "",
+                    "Store-and-Forward :": "",
+                    "Are you willing and able to support family caregivers?": ""
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "",
+                    "Radiology Services :": "",
+                    "X-ray?": "",
+                    "EKG Services?": "",
+                    "Care of Minor Lacerations?": "",
+                    "Pulmonary Function testing?": "",
+                    "Allergy Injections :": "",
+                    "Allergy Skin Testing :": "",
+                    "Office Gynecology?": "",
+                    "Drawing Blood?": "",
+                    "Asthma Treatment?": "",
+                    "Age Appropriate Immunizations?": "",
+                    "Flexible Sigmoidoscopy?": "",
+                    "Tympanometry/Audiometry Screening ?": "",
+                    "Osteopathic Manipulation?": "",
+                    "IV Hydration treatment?": "",
+                    "Cardiac Stress Test?": "",
+                    "Physical Therapy?": "",
+                    "Is anesthesia administered in your office ?": ""
+                }
+            },
+            {
+                "General Information :": {
+                    "Confirmed Date :": "",
+                    "Office Type :": "",
+                    "Providers's Start Date :": "",
+                    "Do you practice at this location?:": "",
+                    "Please Explain:": "",
+                    "Specialty :": "",
+                    "Will you continue to practice at this location": "",
+                    "Practice Name :": "",
+                    "Street 1 :": "",
+                    "Country :": "",
+                    "City :": "",
+                    "State :": "",
+                    "Zip Code :": "",
+                    "Practice Location Website": ""
+                },
+                "Mailing Address :": {
+                    "Do you have an organization (Type 2) NPI? :": "",
+                    "Organization (Type 2) NPI :": ""
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "",
+                    "Fax Number :": ""
+                },
+                "Tax Information :": {
+                    "Practice Name as it appears on the W-9 :": "",
+                    "Tax ID :": "",
+                    "Type of Tax ID :": "",
+                    "Is this the primary Tax ID for this practice location?": ""
+                },
+                "Monday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Tuesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Wednesday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Thursday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Friday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Saturday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Sunday": {
+                    "Start Time :": "",
+                    "End Time :": ""
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": ""
+                },
+                "Partners/Associates :": {
+                    "Colleague Type :": "",
+                    "First Name :": "",
+                    "Last Name :": ""
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": ""
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": ""
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "",
+                    "Last Name :": "",
+                    "E-mail Address :": "",
+                    "Is Office Manager Credentialing Contact  :": ""
+                },
+                "Billing Contact :": {
+                    "Office Manager & Billing Contact are same ?": ""
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Are there any Age Limitations? :": "",
+                    "Age Minimum :": "",
+                    "Age Maximum :": ""
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "",
+                    "Does this office provide handicapped accessibility ?": ""
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "",
+                    "Interior Building": "",
+                    "Wheelchair access to exam room": "",
+                    "Exam table/scale/chair": "",
+                    "Gurneys & Stretchers": "",
+                    "Portable Lifts": "",
+                    "Radiologic Equipment": "",
+                    "Signage & documents": "",
+                    "Parking": "",
+                    "Restroom": "",
+                    "Does this office have other services for the disabled ?": "No"
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "",
+                    "American Sign Language :": "",
+                    "Mental/Physical Impairment Services :": "",
+                    "Is this office accessible by public transportation ?": ""
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "",
+                    "Subway :": "",
+                    "Regional Train :": "",
+                    "Does this Location Provide Child Care Services?": "",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "",
+                    "Do you have TDD(hearing impaired device) available :": "",
+                    "Do you accept Workers' Compensation Patients?": "",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": ""
+                },
+                "Telehealth Service Type:": {
+                    "Audio :": "",
+                    "Audio/Video :": "",
+                    "Secure Text Messaging :": "",
+                    "Remote Monitoring :": "",
+                    "Store-and-Forward :": "",
+                    "Are you willing and able to support family caregivers?": ""
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "",
+                    "Radiology Services :": "",
+                    "X-ray?": "",
+                    "EKG Services?": "",
+                    "Care of Minor Lacerations?": "",
+                    "Pulmonary Function testing?": "",
+                    "Allergy Injections :": "",
+                    "Allergy Skin Testing :": "",
+                    "Office Gynecology?": "",
+                    "Drawing Blood?": "",
+                    "Asthma Treatment?": "",
+                    "Age Appropriate Immunizations?": "",
+                    "Flexible Sigmoidoscopy?": "",
+                    "Tympanometry/Audiometry Screening ?": "",
+                    "Osteopathic Manipulation?": "",
+                    "IV Hydration treatment?": "",
+                    "Cardiac Stress Test?": "",
+                    "Physical Therapy?": "",
+                    "Is anesthesia administered in your office ?": ""
+                }
+            }
+        ],
+        "Archived Locations": []
+    },
+    "HOSPITAL AFFILIATIONS": {
+        "General :": {
+            "Do you have admitting privileges at one or more hospitals?": "",
+            "Do you have an admitting arrangement where another provider admits for you?": "",
+            "Do you have any non-admitting hospital affiliations?": ""
+        },
+        "Admitting Privileges :": [
+            {
+                "Country :": "NC",
+                "State :": "Greensboro,",
+                "Hospital Name :": "CRNA, Wesley Long Hospital",
+                "Street 1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Is this your primary hospital? :": "",
+                "Admitting Privilege Status :": "",
+                "Start Date :": "",
+                "Admitting Privilege Type :": "",
+                "Department :": ""
+            },
+            {
+                "Country :": "NC",
+                "State :": "Greensboro",
+                "Hospital Name :": "Cone Health",
+                "Street 1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Is this your primary hospital? :": "",
+                "Admitting Privilege Status :": "",
+                "Start Date :": "",
+                "Admitting Privilege Type :": "",
+                "Department :": ""
+            },
+            {
+                "Country :": "NC",
+                "State :": "Greensboro,",
+                "Hospital Name :": "Women’s Hospital of Greensboro",
+                "Street 1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Is this your primary hospital? :": "",
+                "Admitting Privilege Status :": "",
+                "Start Date :": "",
+                "Admitting Privilege Type :": "",
+                "Department :": ""
+            },
+            {
+                "Country :": "NC",
+                "State :": "Greenville,",
+                "Hospital Name :": "East Carolina Anesthesia Associates",
+                "Street 1 :": "",
+                "City :": "",
+                "Zip Code :": "",
+                "Is this your primary hospital? :": "",
+                "Admitting Privilege Status :": "",
+                "Start Date :": "",
+                "Admitting Privilege Type :": "",
+                "Department :": ""
+            }
+        ],
+        "Non-Admitting Affiliations :": {
+            "State :": "",
+            "Hospital Name :": "",
+            "Other Hospital Name :": "",
+            "Street 1 :": "",
+            "City :": "",
+            "Zip Code :": "",
+            "Phone Number :": "",
+            "Non-Admitting Affiliation Status :": "",
+            "Please describe the non-admitting affiliation:": ""
+        }
+    },
+    "CREDENTIALING INFORMATION": [
+        {
+            "First Name :": "",
+            "Last Name :": "",
+            "Street 1 :": "",
+            "City :": "",
+            "State :": "",
+            "Zip Code :": "",
+            "Phone Number :": "",
+            "Fax Number :": "",
+            "Email Address :": "",
+            "Primary Credentialing Contact :": "",
+            "Location Type :": ""
+        },
+        {
+            "First Name :": "",
+            "Last Name :": "",
+            "Phone Number :": "",
+            "Fax Number :": "",
+            "Email Address :": "",
+            "Primary Credentialing Contact :": "",
+            "Location Type :": ""
+        }
+    ],
+    "INSURANCE INFORMATION": [],
+    "WORK HISTORY INFORMATION": {
+        "Employment Information Record": [
+            {
+                "Practice/Employer Name :": "The Moses H. Cone Memorial Hospital Professional Liability Self-Insurance Retention (SIR) Insuring Agreement",
+                "Street 1 :": "1200 North Elm Street",
+                "Street 2 :": "",
+                "Country :": "",
+                "City :": "Greensboro",
+                "State :": "NC",
+                "Zip Code :": "27401",
+                "Phone Number :": "336-832-7358",
+                "Fax Number :": "336-832-8638",
+                "Title/Position :": "",
+                "Start Date :": ""
+            },
+            {
+                "Practice/Employer Name :": "AANA Insurance Services",
+                "Street 1 :": "10275 West Higgins Road, Suite 500",
+                "Country :": "",
+                "City :": "Rosemont",
+                "State :": "IL",
+                "Zip Code :": "60018",
+                "Start Date :": "",
+                "Is this your current employer?": "",
+                "End Date :": "4/13/2025",
+                "Reason for departure :": ""
+            }
+        ],
+        "Military :": {
+            "Are you currently on active military duty?": "",
+            "Do you accept all new patients at this location?": ""
+        }
+    },
+    "REFERENCES INFORMATION": [
+        {
+            "Provider Type :": "",
+            "Specialty :": "Anesthesiologist,",
+            "First Name :": "Dr. Robert",
+            "Last Name :": "Fitzgerald",
+            "Street 1 :": "",
+            "City:": "",
+            "State :": "",
+            "Zip Code :": "",
+            "Country :": "",
+            "Email Address :": "rfitzgerald@acnchealth.com",
+            "Phone Number :": "865-405-2990",
+            "Fax Number :": "",
+            "Relationship :": "",
+            "Association Start Date :": ""
+        },
+        {
+            "Provider Type :": "",
+            "Specialty :": "CRNA",
+            "First Name :": "Suzanne",
+            "Last Name :": "Gregory",
+            "Street 1 :": "",
+            "City:": "",
+            "State :": "",
+            "Zip Code :": "",
+            "Country :": "",
+            "Email Address :": "suzig9999@gmail.com",
+            "Phone Number :": "336-706-2836",
+            "Fax Number :": "",
+            "Relationship :": "",
+            "Association Start Date :": ""
+        }
+    ],
+    "DISCLOSURE INFORMATION": {
+        "Board Certification :": {
+            "1. Have you ever had Board certification denied, revoked, limited, restricted, suspended, involuntarily relinquished, subject t stipulated or probationary conditions, received a letter of reprimand from a specialty Board, or is any such action currently pending or under review?": "",
+            "2. Have you ever voluntarily relinquished a certification, including any voluntary non-renewal of a time limited certification?": ""
+        },
+        "Professional Insurance History :": {
+            "1. Has your professional liability insurance coverage ever been terminated, not renewed, cancelled, limited, restricted, modified, or altered by action of the insurance company?": "",
+            "2. Have you ever been denied coverage?": "",
+            "3. Has your present professional liability insurance carrier excluded any specific procedures from your insurance coverage?": "No"
+        },
+        "Professional Claims History :": {
+            "1. Have there ever been any professional liability (i.e., malpractice) claims, suits, judgments, settlements or arbitration proceeding involving you?": "",
+            "Date :": "",
+            "Date of Occurrence :": "",
+            "Date Claim Filed :": "",
+            "Claim Status :": "",
+            "Insurance Carrier Name :": "",
+            "State :": "",
+            "Settlement Amount :": "",
+            "Resolution Method :": "",
+            "Description of Allegations :": "",
+            "Were you the primary defendant :": "",
+            "Number of Co-defendants :": "",
+            "Your involvement in the case :": "",
+            "Description of alleged injury to patient :": "",
+            "Did the alleged injury result in death:": "",
+            "Data Bank (NPDB) :": "",
+            "2. Are any professional liability (i.e., malpractice) claims, suits, judgments, settlements or arbitration proceedings involving you currently pending?": "",
+            "3. Are you aware of any formal demand for payment or similar claim submitted to your insurer that did not result in a lawsuit or other proceeding alleging professional liability?": ""
+        },
+        "Other Attestation Questions :": {
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 1. a hospital or other healthcare facility (e.g., surgical center, nursing home, renal dialysis facility, etc.)?": "No",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 2. an education facility or program (e.g., dental or other health care professional school, residency, internship, etc.)?": "",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 3. a professional organization or society?": "",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 4. a professional licensing body (in any jurisdiction for any profession)?": "",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 5. a private, federal, or state agency regarding your participation in a third party payment program (Medicare, Medicaid, Health Maintenance Organization (HMO), Preferred Provider Organization (PPO), Preferred Hospital Organization (PHO), Provider- Sponsored Health Care Corporations (PSHCC), network, system, managed care organization, etc.)?": "",
+            "6. a state or federal agency (DEA, etc.) regarding your prescription of controlled substances?": "",
+            "B. To your knowledge, have you ever been the subject of any report(s) to a state or federal data bank or state licensing or disciplining entity?": "",
+            "1. Have you ever involuntarily resigned, terminated or surrendered medical staff privileges or employment from a hospital, group practice or other health care facility or medical staff?": "",
+            "2. Have you ever voluntarily resigned, terminated, or surrendered medical staff privileges or employment from a hospital, group practice or other healthcare facility or medical staff to avoid disciplinary action or investigation, or while under investigation, or while such an investigation is/was pending?": "",
+            "D. Have you ever been suspended, fined, disciplined, investigated, expelled, sanctioned or otherwise restricted or excluded from participating in any private, federal or state health insurance program (for example, Medicare or Medicaid) or are any such proceedings in progress?": "",
+            "E. Has any professional review organization under contract with Medicare or Medicaid ever made an adverse quality determination concerning your treatment rendered to any patient or are any such proceedings in progress?": "",
+            "F. Have you ever been convicted of, pled guilty to, or pled nolo contendere to any felony or misdemeanor that is reasonably related to your qualifications, competence, functions, or duties as a health care professional or are you currently under indictment or currently have pending against you any such charges?": "",
+            "G. Have you ever been convicted of, pled guilty to, or pled nolo contendere to any felony or misdemeanor that alleged fraud, an act of violence, child abuse, or a sexual offense or sexual misconduct or are you currently under indictment or currently hav pending against you any such charges?": "",
+            "H. In the last ten years, have you been found liable or responsible for or named in any civil offense that is reasonably related t your qualifications, competence, functions, or duties as a health care professional or that alleged fraud, an act of violence, child abuse, or a sexual offense or sexual misconduct?": "",
+            "I. Have you ever been court-martialed for actions related to your duties as a health care professional?": ""
+        },
+        "Ability to Perform Job :": {
+            "1. Are you currently engaged in the illegal use of drugs? (Currently means sufficiently recent to justify a reasonable belief that the use of drugs may have an ongoing impact on one's ability to practice your profession. It is not limited to the day of, or within a matter of days or weeks before the date of application, rather that it has occurred recently enough to indicate the individual is actively engaged in such conduct. Illegal use of drugs refers to drugs whose possession or distribution is unlawful under the Controlled Substances Act, 21 U.S.C. 812.22. It does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provision of Federal law. The term does include, however, the unlawful use of prescription controlled substances and alcohol).": "",
+            "2. Do you use any chemical substances that would in any way impair or limit your ability to practice medicine and perform th functions of your job with reasonable skill and safety?": "",
+            "3. Do you have any reason to believe that you would pose a risk to the safety or well being of your patients?": ""
+        },
+        "Health Status :": {
+            "1. Do you currently have any physical or mental condition(s) that may affect your ability to practice or exercise the clinical     privileges or responsibilities typically associated with the specialty and position for which you are submitting this Application?": "",
+            "2. Are you currently in a treatment program(s) that may affect your ability to practice or exercise the clinical privileges or responsibilities typically associated with the specialty and position for which you are submitting this application?": "",
+            "3. Are you able to perform all the essential functions of the position for which you are applying, safely and according to accepted standards of performance, with or without reasonable accommodation?": "",
+            "4. I have had a TB test within the last 12 months and the test was negative. negative. I have not experienced new risk factors for TB nor am I experiencing symptoms of active TB since my last TB test.": "",
+            "4(A). I have had a history of previous infection with Mycobacterium Tuberculosis or a positive TB test but I since have had a chest x-ray which was read as normal. I currently have no symptoms of active disease and have not experienced new risk factors for TB in the past year.": "",
+            "4(B). I currently have active TB disease which is being adequately treated.": "",
+            "4(C). I have not had a TB test within the past 12 months, but have scheduled an appointment for the test and will forward the results within 30 days from that date.": "",
+            "5. The Colorado Board of Health requires licensed health care facilities to annually report their health care worker influenza vaccination rate and achieve a vaccination rate of at least 90% . To facilitate compliance with this rule, some health care faciliti may require annual influenza vaccination of employees and staff. If this facility must comply with the Colorado Board of Health requirements, do you agree to provide proof of influenza vaccination or a medical exemption before practicing at this facility?": ""
+        }
+    }
+}

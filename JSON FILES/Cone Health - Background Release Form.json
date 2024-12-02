@@ -1,0 +1,78 @@
+{
+  "First Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Middle Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  },
+  "City": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> City :",
+    "type": "FILL_FIELD"
+  },
+  "State": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> State :",
+    "type": "FILL_FIELD"
+  },
+  "Zip Code": {
+    "json_path": "PERSONAL INFORMATION -> Home Address -> Zip Code :",
+    "type": "FILL_FIELD"
+  },
+  "male": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Gender Identity:",
+    "type": "CHECKBOX",
+    "allowed_values": [
+      "Male",
+      "male"
+    ]
+  },
+  "female": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Gender Identity:",
+    "type": "CHECKBOX",
+    "allowed_values": [
+      "Female",
+      "female"
+    ]
+  },
+  "Date of Birth mmddyyyy": {
+    "json_path": "PERSONAL INFORMATION -> Demographics -> Birth Date :",
+    "type": "FILL_FIELD"
+  },
+  "Applicants Email": {
+    "json_path": "PERSONAL INFORMATION -> Primary Method of Contact -> Personal E-Mail Address :",
+    "type": "FILL_FIELD"
+  },
+  "Name on the degreediploma": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Degree :",
+    "type": "FILL_FIELD"
+  },
+  "Year graduated": {
+    "json_path": "EDUCATION -> Professional School Information -> [0] -> Professional School End Date :",
+    "type": "FILL_FIELD"
+  },
+  "Printed First Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Printed First Name_2": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "First": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "Printed Middle Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  },
+  "Printed Middle Name_2": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  },
+  "Middle": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  }
+}

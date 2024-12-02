@@ -1,0 +1,14 @@
+{
+  "First Name": {
+    "json_path": "PERSONAL INFORMATION -> Name -> First Name :",
+    "type": "FILL_FIELD"
+  },
+  "MI": {
+    "json_path": "PERSONAL INFORMATION -> Name -> Middle Name",
+    "type": "FILL_FIELD"
+  },
+  "Department or Specialty": {
+    "json_path": "SPECIALTY INFORMATION -> Primary Specialty -> Primary Specialty :",
+    "type": "FILL_FIELD"
+  }
+}
